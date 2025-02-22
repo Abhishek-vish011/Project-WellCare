@@ -1,2 +1,2 @@
 # Project-WellCare
-A virtual representation of a medical practice that provides information about services
+A virtual representation of medical practices, which provides information about Appointments, Facilities, Working, Timings etc.
